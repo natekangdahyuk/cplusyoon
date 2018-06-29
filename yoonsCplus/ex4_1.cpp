@@ -3,7 +3,6 @@
 
 #include "ex4_1.hpp"
 
-
 Rectangle::Rectangle(int _x, int _y) {
 	x = _x;
 	y = _y;

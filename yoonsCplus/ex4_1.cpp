@@ -3,7 +3,7 @@
 
 #include "ex4_1.hpp"
 
-//www
+//wwwxxx
 Rectangle::Rectangle(int _x, int _y) {
 	x = _x;
 	y = _y;

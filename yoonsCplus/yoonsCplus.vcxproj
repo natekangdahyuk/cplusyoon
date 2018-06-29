@@ -141,9 +141,12 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\%40git\cplusyoon\yoonsCplus\ex4_1.cpp" />
     <ClCompile Include="..\..\..\%40git\cplusyoon\yoonsCplus\ex4_1_main.cpp" />
+    <ClCompile Include="..\..\..\%40Git\cplusyoon\yoonsCplus\ex4_2.cpp" />
+    <ClCompile Include="..\..\..\%40Git\cplusyoon\yoonsCplus\ex4_2_main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\%40git\cplusyoon\yoonsCplus\ex4_1.hpp" />
+    <ClInclude Include="..\..\..\%40Git\cplusyoon\yoonsCplus\ex4_2.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

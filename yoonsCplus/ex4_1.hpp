@@ -1,6 +1,6 @@
 #pragma once
-#ifndef __연습문제4_1_H__
-#define __연습문제4_1_H__
+#ifndef __ex4_1_H__
+#define __ex4_1_H__
 
 class Rectangle {
 public:

@@ -21,9 +21,18 @@
     <ClCompile Include="..\..\..\%40git\cplusyoon\yoonsCplus\ex4_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\%40Git\cplusyoon\yoonsCplus\ex4_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\%40Git\cplusyoon\yoonsCplus\ex4_2_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\%40git\cplusyoon\yoonsCplus\ex4_1.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\%40Git\cplusyoon\yoonsCplus\ex4_2.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
